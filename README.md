@@ -21,7 +21,7 @@ vuejs、vuerouter、vuex、element-ui、Express
 
 ### 效果图片：
 
-![image-20180502160937456](/var/folders/0j/p8j64q9171qfqpqr29chr79m0000gn/T/abnerworks.Typora/image-20180502160937456.png)
+
 
 > 登录页面（admin,111111）
 
