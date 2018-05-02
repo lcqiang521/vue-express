@@ -21,11 +21,11 @@ vuejs、vuerouter、vuex、element-ui、Express
 
 ### 效果图片：
 
-![image-20180502160937456](/var/folders/0j/p8j64q9171qfqpqr29chr79m0000gn/T/abnerworks.Typora/image-20180502160937456.png)
+![login](https://raw.githubusercontent.com/lcqiang521/vue-express/master/static/images/login.png)
 
 > 登录页面（admin,111111）
 
-![image-20180502161031678](/var/folders/0j/p8j64q9171qfqpqr29chr79m0000gn/T/abnerworks.Typora/image-20180502161031678.png)
+![list](https://github.com/lcqiang521/vue-express/blob/master/static/images/list.png?raw=true)
 
 > 列表页面
 
